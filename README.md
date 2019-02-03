@@ -2,7 +2,9 @@
 
 Analysis of Beto O'Rourke vs. Ted Cruz tweets scrapped from Twitter
 This project was done in two day's time as part of our "User Generated Content Analytics" course
+
 Total number of Team Members: 4
+
 The Insights from our analysis are as follows:
 We could see a general trend of major support to Beto (Democrat) nationwide but not so much in Texas.
 The topics extracted using topic modelling indicated general trend of Beto discussing Ted’s views & counterarguing.
