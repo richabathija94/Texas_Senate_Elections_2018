@@ -12,3 +12,12 @@ The Insights from our analysis are as follows:
 * A major support for Ted from rural areas could be observed while the same was observed for Beto from urban areas.
 * The topics we got revolved around immigration, gun policies and democratic & republican viewpoints from respective sides.
 * We predicted a win by Ted from the numbers from analysis of just Texas data & premise that majority rural population would     not be active on Twitter. (It turned out to be true)
+
+Topic modelling at the end has been done in two ways with LDA:
+* Bag of words with word-count using gensim & spacy libraries 
+* TF-IDF using gensim
+
+Tools Used:
+1. Twitter API
+2. Python
+3. Natural Language Processing
